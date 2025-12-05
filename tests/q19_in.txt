@@ -1,0 +1,7 @@
+20
+5
+sun
+rain
+sun
+cloud
+sun

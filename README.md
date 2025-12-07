@@ -1,5 +1,3 @@
----
-
 # PHP Algorithm Training Project
 
 **〜Paiza Bランクをサクッと解ける実力を身につけるための訓練プロジェクト〜**

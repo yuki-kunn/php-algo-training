@@ -24,6 +24,7 @@
 
 ```
 php-algo-training/
+├── sample/                         # 模範回答集
 ├── src/
 │   ├── basics/
 │   │     └── q01.php               # 基本の配列処理（合計/最大/最小）
@@ -56,7 +57,6 @@ php-algo-training/
 │   │     └── q20.php               # 宝探しシミュレーション
 │
 ├── tests/              # テストデータ
-├── examples/           # サンプル問題
 ├── judge.php           # 成否判定用
 ├── README.md
 └── run.php             # 問題を実行するランナー
